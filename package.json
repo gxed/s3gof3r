@@ -1,0 +1,16 @@
+{
+  "author": "whyrusleeping",
+  "bugs": {
+    "url": "https://github.com/rlmcpherson/s3gof3r"
+  },
+  "gx": {
+    "dvcsimport": "github.com/rlmcpherson/s3gof3r"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "",
+  "name": "s3gof3r",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
